@@ -1,0 +1,501 @@
+ID,Rain
+1,no rain
+2,no rain
+3,no rain
+4,no rain
+5,no rain
+6,no rain
+7,rain
+8,no rain
+9,rain
+10,no rain
+11,no rain
+12,no rain
+13,no rain
+14,no rain
+15,no rain
+16,no rain
+17,no rain
+18,no rain
+19,no rain
+20,no rain
+21,no rain
+22,no rain
+23,rain
+24,no rain
+25,no rain
+26,rain
+27,rain
+28,no rain
+29,no rain
+30,no rain
+31,no rain
+32,no rain
+33,no rain
+34,no rain
+35,no rain
+36,no rain
+37,no rain
+38,no rain
+39,no rain
+40,no rain
+41,rain
+42,no rain
+43,no rain
+44,no rain
+45,rain
+46,no rain
+47,no rain
+48,no rain
+49,no rain
+50,no rain
+51,no rain
+52,no rain
+53,no rain
+54,no rain
+55,no rain
+56,no rain
+57,no rain
+58,no rain
+59,no rain
+60,no rain
+61,no rain
+62,no rain
+63,no rain
+64,no rain
+65,rain
+66,no rain
+67,no rain
+68,no rain
+69,no rain
+70,no rain
+71,rain
+72,no rain
+73,no rain
+74,no rain
+75,no rain
+76,no rain
+77,rain
+78,no rain
+79,no rain
+80,no rain
+81,no rain
+82,no rain
+83,no rain
+84,no rain
+85,no rain
+86,no rain
+87,no rain
+88,no rain
+89,no rain
+90,no rain
+91,no rain
+92,rain
+93,no rain
+94,no rain
+95,no rain
+96,no rain
+97,no rain
+98,no rain
+99,rain
+100,no rain
+101,rain
+102,no rain
+103,no rain
+104,no rain
+105,no rain
+106,no rain
+107,no rain
+108,rain
+109,no rain
+110,no rain
+111,no rain
+112,rain
+113,no rain
+114,no rain
+115,no rain
+116,no rain
+117,no rain
+118,no rain
+119,no rain
+120,rain
+121,no rain
+122,rain
+123,no rain
+124,no rain
+125,no rain
+126,no rain
+127,no rain
+128,no rain
+129,rain
+130,rain
+131,no rain
+132,no rain
+133,no rain
+134,no rain
+135,no rain
+136,no rain
+137,no rain
+138,rain
+139,no rain
+140,no rain
+141,rain
+142,no rain
+143,no rain
+144,no rain
+145,no rain
+146,no rain
+147,no rain
+148,no rain
+149,no rain
+150,no rain
+151,no rain
+152,no rain
+153,rain
+154,no rain
+155,no rain
+156,no rain
+157,rain
+158,no rain
+159,no rain
+160,no rain
+161,no rain
+162,no rain
+163,no rain
+164,no rain
+165,no rain
+166,no rain
+167,no rain
+168,rain
+169,no rain
+170,no rain
+171,no rain
+172,no rain
+173,no rain
+174,no rain
+175,no rain
+176,no rain
+177,no rain
+178,rain
+179,no rain
+180,no rain
+181,no rain
+182,no rain
+183,no rain
+184,no rain
+185,no rain
+186,no rain
+187,no rain
+188,no rain
+189,no rain
+190,no rain
+191,no rain
+192,no rain
+193,no rain
+194,rain
+195,no rain
+196,no rain
+197,no rain
+198,no rain
+199,no rain
+200,no rain
+201,no rain
+202,no rain
+203,no rain
+204,no rain
+205,no rain
+206,no rain
+207,rain
+208,no rain
+209,no rain
+210,no rain
+211,no rain
+212,no rain
+213,no rain
+214,no rain
+215,no rain
+216,rain
+217,no rain
+218,no rain
+219,no rain
+220,no rain
+221,no rain
+222,no rain
+223,no rain
+224,no rain
+225,no rain
+226,no rain
+227,no rain
+228,no rain
+229,no rain
+230,no rain
+231,no rain
+232,no rain
+233,no rain
+234,no rain
+235,no rain
+236,no rain
+237,no rain
+238,no rain
+239,no rain
+240,no rain
+241,no rain
+242,no rain
+243,no rain
+244,no rain
+245,no rain
+246,no rain
+247,no rain
+248,no rain
+249,no rain
+250,no rain
+251,rain
+252,no rain
+253,no rain
+254,no rain
+255,no rain
+256,no rain
+257,no rain
+258,no rain
+259,no rain
+260,no rain
+261,no rain
+262,no rain
+263,rain
+264,no rain
+265,no rain
+266,no rain
+267,no rain
+268,no rain
+269,no rain
+270,rain
+271,no rain
+272,no rain
+273,no rain
+274,no rain
+275,no rain
+276,no rain
+277,rain
+278,no rain
+279,rain
+280,no rain
+281,no rain
+282,no rain
+283,no rain
+284,rain
+285,no rain
+286,no rain
+287,no rain
+288,no rain
+289,no rain
+290,no rain
+291,no rain
+292,no rain
+293,no rain
+294,no rain
+295,no rain
+296,no rain
+297,no rain
+298,rain
+299,no rain
+300,no rain
+301,no rain
+302,no rain
+303,no rain
+304,rain
+305,no rain
+306,no rain
+307,no rain
+308,no rain
+309,no rain
+310,rain
+311,no rain
+312,no rain
+313,no rain
+314,no rain
+315,no rain
+316,no rain
+317,no rain
+318,no rain
+319,no rain
+320,no rain
+321,no rain
+322,no rain
+323,no rain
+324,no rain
+325,no rain
+326,no rain
+327,no rain
+328,no rain
+329,rain
+330,no rain
+331,no rain
+332,no rain
+333,no rain
+334,no rain
+335,no rain
+336,no rain
+337,rain
+338,no rain
+339,no rain
+340,no rain
+341,no rain
+342,no rain
+343,no rain
+344,no rain
+345,no rain
+346,no rain
+347,no rain
+348,rain
+349,no rain
+350,no rain
+351,no rain
+352,no rain
+353,no rain
+354,no rain
+355,no rain
+356,no rain
+357,no rain
+358,no rain
+359,no rain
+360,rain
+361,no rain
+362,no rain
+363,no rain
+364,no rain
+365,no rain
+366,rain
+367,no rain
+368,rain
+369,no rain
+370,no rain
+371,no rain
+372,no rain
+373,no rain
+374,no rain
+375,no rain
+376,no rain
+377,no rain
+378,no rain
+379,no rain
+380,no rain
+381,no rain
+382,no rain
+383,rain
+384,no rain
+385,no rain
+386,no rain
+387,no rain
+388,no rain
+389,no rain
+390,no rain
+391,no rain
+392,no rain
+393,no rain
+394,no rain
+395,no rain
+396,no rain
+397,no rain
+398,rain
+399,no rain
+400,no rain
+401,no rain
+402,no rain
+403,no rain
+404,no rain
+405,no rain
+406,rain
+407,rain
+408,rain
+409,no rain
+410,rain
+411,no rain
+412,rain
+413,rain
+414,no rain
+415,no rain
+416,no rain
+417,no rain
+418,no rain
+419,no rain
+420,no rain
+421,no rain
+422,no rain
+423,rain
+424,rain
+425,no rain
+426,no rain
+427,no rain
+428,no rain
+429,no rain
+430,no rain
+431,no rain
+432,no rain
+433,no rain
+434,no rain
+435,no rain
+436,no rain
+437,no rain
+438,no rain
+439,no rain
+440,no rain
+441,no rain
+442,no rain
+443,rain
+444,no rain
+445,no rain
+446,no rain
+447,no rain
+448,no rain
+449,no rain
+450,no rain
+451,no rain
+452,no rain
+453,no rain
+454,no rain
+455,no rain
+456,no rain
+457,no rain
+458,no rain
+459,no rain
+460,rain
+461,no rain
+462,no rain
+463,no rain
+464,no rain
+465,no rain
+466,no rain
+467,no rain
+468,no rain
+469,no rain
+470,rain
+471,no rain
+472,no rain
+473,no rain
+474,no rain
+475,no rain
+476,rain
+477,no rain
+478,no rain
+479,no rain
+480,rain
+481,no rain
+482,no rain
+483,no rain
+484,no rain
+485,no rain
+486,no rain
+487,no rain
+488,rain
+489,no rain
+490,no rain
+491,rain
+492,no rain
+493,no rain
+494,rain
+495,no rain
+496,no rain
+497,no rain
+498,no rain
+499,no rain
+500,no rain
